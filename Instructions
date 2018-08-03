@@ -1,0 +1,30 @@
+Welcome to TriTacToe!
+
+
+A "trio" is any group of 3 of symbols in order either horizontally or vertically.
+Each "trio" is one point when the game is finished which is when the board is full.
+
+Every three in a row that can be connected from a point counts as one complete "trio"
+A Point can only be drawn from once.
+Diagonals do not count.
+
+e.g.
+
+0 0 0 2
+0 1 2 3
+0 2 1 3
+1 1 2 2
+
+Score: 3
+The top three zeros count for 2 points, the left three zeros only count for one point because the top left zero was already "used" in the top row. 
+
+
+e.g.
+
+1 1 1 1
+2 3 1 2
+0 1 0 2
+2 2 2 0
+
+Score: 6
+The Row of four 1's is 4 points, (each 1 can be drawn into a unique "trio") the bottom 2's count for 2 points (two separate "trios" can be drawn).
