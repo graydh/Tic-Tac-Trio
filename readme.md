@@ -1,4 +1,5 @@
 Declan Gray-Mullen
+
 Aug 2nd, 2018
 
 
@@ -6,7 +7,7 @@ Aug 2nd, 2018
 
 This is a simple single player strategy game inspired by tic-tac-toe and minesweeper. 
 
-read the Instructions file to learn how to play!
+Read the Instructions file to learn how to play!
 
 Demo:
 
