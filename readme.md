@@ -2,7 +2,7 @@ Declan Gray-Mullen
 Aug 2nd, 2018
 
 
-Welcome to TriTacToe!
+##Welcome to TriTacToe!
 
 This is a simple single player strategy game inspired by tic-tac-toe and minesweeper. 
 
